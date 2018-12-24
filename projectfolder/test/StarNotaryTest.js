@@ -11,7 +11,7 @@ contract('StarNotary', accounts => {
     let defaultAccount = accounts[0];
     let account1 = accounts[1];
     let account2 = accounts[2];
-    let starPrice = web3.utils.toWei('.01', 'ether');
+    let starPrice = web3.toWei(.01, "ether");
 
     beforeEach(async function() { 
         this.contract = await StarNotary.new({from: defaultAccount})
