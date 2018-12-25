@@ -56,6 +56,13 @@ https://rinkeby.etherscan.io/tx/0xa7b234da07b98acdd7846fc1de17a998df393bf3635f2d
 0xa7b234da07b98acdd7846fc1de17a998df393bf3635f2db65f533e8380c5f82e
 ```
 
+#### StarUpForSale Transaction ID
+
+https://rinkeby.etherscan.io/tx/0x1546db9336d3c02bb9edab591581991258bb3bacc33595a5f57b49aaa72b90b1
+```bash
+0x1546db9336d3c02bb9edab591581991258bb3bacc33595a5f57b49aaa72b90b1
+```
+
 #### Star Token id
 
 **1**
